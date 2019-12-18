@@ -1,0 +1,84 @@
+Wed Dec 18 04:53:57 MSK 2019:
+Start session
+Wed Dec 18 04:54:04 MSK 2019:
+show-groups command executed
+Wed Dec 18 04:54:09 MSK 2019:
+Session closed normally
+Wed Dec 18 04:54:44 MSK 2019:
+Start session
+Wed Dec 18 04:54:48 MSK 2019:
+show-groups command executed
+Wed Dec 18 04:54:54 MSK 2019:
+Session closed normally
+Wed Dec 18 04:55:31 MSK 2019:
+Start session
+Wed Dec 18 04:55:36 MSK 2019:
+show-groups command executed
+Wed Dec 18 04:55:38 MSK 2019:
+Session closed normally
+Wed Dec 18 04:56:24 MSK 2019:
+Start session
+Wed Dec 18 04:56:28 MSK 2019:
+show-groups command executed
+Wed Dec 18 04:56:48 MSK 2019:
+Start session
+Wed Dec 18 04:56:52 MSK 2019:
+show-groups command executed
+Wed Dec 18 04:57:09 MSK 2019:
+Start session
+Wed Dec 18 04:57:12 MSK 2019:
+show-groups command executed
+Wed Dec 18 05:00:03 MSK 2019:
+Session closed normally
+Wed Dec 18 05:04:53 MSK 2019:
+Start session
+Wed Dec 18 05:05:19 MSK 2019:
+Session closed normally
+Wed Dec 18 05:29:05 MSK 2019:
+Start session
+Wed Dec 18 05:29:09 MSK 2019:
+show-users command executed
+Wed Dec 18 05:29:41 MSK 2019:
+show-groups command executed
+Wed Dec 18 05:30:11 MSK 2019:
+Session closed normally
+Wed Dec 18 05:30:27 MSK 2019:
+Start session
+Wed Dec 18 05:30:32 MSK 2019:
+show-users command executed
+Wed Dec 18 05:30:35 MSK 2019:
+Session closed normally
+Wed Dec 18 05:30:57 MSK 2019:
+Start session
+Wed Dec 18 05:31:01 MSK 2019:
+show-groups command executed
+Wed Dec 18 05:31:07 MSK 2019:
+Session closed normally
+Wed Dec 18 05:31:08 MSK 2019:
+Start session
+Wed Dec 18 05:31:11 MSK 2019:
+Session closed normally
+Wed Dec 18 05:31:19 MSK 2019:
+Start session
+Wed Dec 18 05:31:30 MSK 2019:
+show-groups command executed
+Wed Dec 18 05:31:39 MSK 2019:
+Session closed normally
+Wed Dec 18 05:36:30 MSK 2019:
+Start session
+Wed Dec 18 05:37:13 MSK 2019:
+Session closed normally
+Wed Dec 18 05:37:34 MSK 2019:
+Start session
+Wed Dec 18 05:37:49 MSK 2019:
+Session closed normally
+Wed Dec 18 05:38:11 MSK 2019:
+Start session
+Wed Dec 18 05:38:20 MSK 2019:
+modify gid for  to : Operation error
+Wed Dec 18 05:38:29 MSK 2019:
+Session closed normally
+Wed Dec 18 05:47:31 MSK 2019:
+Start session
+Wed Dec 18 05:47:34 MSK 2019:
+Session closed normally
